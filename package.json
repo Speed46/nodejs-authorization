@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/nodejs-auth.git"
+    "url": "https://github.com/Speed46/nodejs-authorization"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/nodejs-auth/issues"
+    "url": "https://github.com/Speed46/nodejs-authorization"
   },
-  "homepage": "https://github.com/rahulsups/nodejs-auth#readme",
+  "homepage": "https://github.com/Speed46/nodejs-authorization",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
