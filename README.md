@@ -15,6 +15,11 @@ authorization link sent to mail
 
 ![n2](https://github.com/Speed46/nodejs-authorization/assets/101384882/cf79bf1f-46e4-48d4-a577-e56b4b7abd34)
 
+email verified redirect
+
+![image](https://github.com/Speed46/nodejs-authorization/assets/101384882/34f05bb3-326b-48d1-9d22-0fac3cc34ece)
+
+
 dashboard
 
 ![nr9](https://github.com/Speed46/nodejs-authorization/assets/101384882/5958b730-ef93-4a22-8369-d488d6a24d57)
