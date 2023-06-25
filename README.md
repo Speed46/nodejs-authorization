@@ -3,7 +3,36 @@
 
 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
+login
+
+![nr1](https://github.com/Speed46/nodejs-authorization/assets/101384882/87d1fc34-680e-4622-aa6a-c130882d2f6b)
+
+register new user 
+
+![nr6](https://github.com/Speed46/nodejs-authorization/assets/101384882/6329c7dc-9fe3-4706-b25f-7aa6fadbddd4)
+
+authorization link sent to mail
+
+![n2](https://github.com/Speed46/nodejs-authorization/assets/101384882/cf79bf1f-46e4-48d4-a577-e56b4b7abd34)
+
+dashboard
+
+![nr9](https://github.com/Speed46/nodejs-authorization/assets/101384882/5958b730-ef93-4a22-8369-d488d6a24d57)
+
+unknown email signup
+
+![nr7](https://github.com/Speed46/nodejs-authorization/assets/101384882/bddd4a83-4c2b-4055-843c-babbffc7ee60)
+
+forgot password
+
+![nr10](https://github.com/Speed46/nodejs-authorization/assets/101384882/c12fa3c0-3f8d-4c32-a906-7c44c90ea430)
+
+reset password
+
+![nr5](https://github.com/Speed46/nodejs-authorization/assets/101384882/831414cb-2931-4f1c-96ee-7a6f9654ce5a)
+
+
+
 
 ## Technologies Used
 1.  NodeJS
@@ -21,11 +50,7 @@
 - NodeJS
 - CLI
 
-## Installation
-
-##### Clone the latest Repository
-https://github.com/runapaswan/NodeJs_Authentication_project
-`
+## Installation`
 
 ##### Into the project directory
 
@@ -39,7 +64,7 @@ https://github.com/runapaswan/NodeJs_Authentication_project
 
 `npm start`
 
-#### The Server should now be running at http://localhost:3006/
+
 
 ## Folder Structure
 
